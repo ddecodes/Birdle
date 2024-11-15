@@ -200,7 +200,7 @@ sortedcontainers==2.4.0
 soundfile==0.12.1
 soupsieve==2.5
 soxr==0.3.7
-spacy==3.7.6
+spacy>=3.6,<3.8
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 SQLAlchemy==2.0.36
@@ -209,7 +209,7 @@ stack-data==0.6.3
 starlette==0.30.0
 statsmodels==0.14.4
 sympy==1.13
-tables==3.9.0
+tables>=3.8,<3.10
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
 tensorboard-plugin-wit==1.8.1
