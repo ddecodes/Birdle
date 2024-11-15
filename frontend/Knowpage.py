@@ -5,7 +5,7 @@ import librosa
 import numpy as np
 from io import BytesIO
 import pandas as pd
-df = pd.read_csv('cleaned_data.csv')
+df = pd.read_csv('frontend/cleaned_data.csv')
 def render():
     
     st.header("Upload the audio and we will predict the bird for you..")
