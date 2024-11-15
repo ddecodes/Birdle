@@ -4,7 +4,7 @@ from navigation import pages
 
 def landing():
     with st.container():
-        st.image("Landing Page.jpg")
+        st.image("frontend/Landing Page.jpg")
         col1, col2 = st.columns([0.7, 2])
         with col2:
             st.header(":orange-background[WELCOME TO BIRDLE]")
