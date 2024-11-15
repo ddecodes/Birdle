@@ -208,7 +208,7 @@ sqlparse==0.4.4
 stack-data==0.6.3
 starlette==0.30.0
 statsmodels==0.14.4
-streamlit==1.26.0​
+streamlit==1.40.1
 sympy==1.13
 tables>=3.8,<3.10
 tensorboard==2.18.0
