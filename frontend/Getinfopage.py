@@ -4,7 +4,7 @@ import pandas as pd
 import os
 
 def load_data():
-    return pd.read_csv('cleaned_data.csv')
+    return pd.read_csv('frontend/cleaned_data.csv')
 
 def display_options(options):
     selected_option = st.selectbox("Select the Bird", options)
