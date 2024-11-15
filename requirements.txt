@@ -210,7 +210,7 @@ starlette==0.30.0
 statsmodels==0.14.4
 sympy==1.13
 tables==3.9.0
-tensorboard==3.14.0
+tensorboard==2.18.0
 tensorboard-data-server==0.7.3
 tensorboard-plugin-wit==1.8.1
 tensorflow==3.13.0
